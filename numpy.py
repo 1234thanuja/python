@@ -45,3 +45,4 @@ print("maximum-index :",maximum_index)
 median=np.median(a)
 
 print("median :",median)
+print ("finish")
